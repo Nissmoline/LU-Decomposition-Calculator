@@ -187,7 +187,7 @@ static void PrintMatrix(double[,] matrix, int n)
 ## Usage
 Clone the repository and execute the program:
 ```bash
-git clone https://github.com/your-repo-name.git
+git clone https://github.com/Nissmoline/LU-Decomposition-Calculator.git
 cd your-repo-name
 dotnet run
 ```

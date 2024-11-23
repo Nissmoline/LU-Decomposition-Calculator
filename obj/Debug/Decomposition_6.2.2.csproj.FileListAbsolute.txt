@@ -1,0 +1,14 @@
+C:\Users\Kolpa\Desktop\NewLabMath1\Decomposition_6.2.2\Decomposition_6.2.2\bin\Debug\Decomposition_6.2.2.exe.config
+C:\Users\Kolpa\Desktop\NewLabMath1\Decomposition_6.2.2\Decomposition_6.2.2\bin\Debug\Decomposition_6.2.2.exe
+C:\Users\Kolpa\Desktop\NewLabMath1\Decomposition_6.2.2\Decomposition_6.2.2\bin\Debug\Decomposition_6.2.2.pdb
+C:\Users\Kolpa\Desktop\NewLabMath1\Decomposition_6.2.2\Decomposition_6.2.2\obj\Debug\Decomposition_6.2.2.csproj.AssemblyReference.cache
+C:\Users\Kolpa\Desktop\NewLabMath1\Decomposition_6.2.2\Decomposition_6.2.2\obj\Debug\Decomposition_6.2.2.csproj.CoreCompileInputs.cache
+C:\Users\Kolpa\Desktop\NewLabMath1\Decomposition_6.2.2\Decomposition_6.2.2\obj\Debug\Decomposition_6.2.2.exe
+C:\Users\Kolpa\Desktop\NewLabMath1\Decomposition_6.2.2\Decomposition_6.2.2\obj\Debug\Decomposition_6.2.2.pdb
+C:\Users\Kolpa\Desktop\LabM1\Decomposition_6.2.2\Decomposition_6.2.2\bin\Debug\Decomposition_6.2.2.exe.config
+C:\Users\Kolpa\Desktop\LabM1\Decomposition_6.2.2\Decomposition_6.2.2\bin\Debug\Decomposition_6.2.2.exe
+C:\Users\Kolpa\Desktop\LabM1\Decomposition_6.2.2\Decomposition_6.2.2\bin\Debug\Decomposition_6.2.2.pdb
+C:\Users\Kolpa\Desktop\LabM1\Decomposition_6.2.2\Decomposition_6.2.2\obj\Debug\Decomposition_6.2.2.csproj.AssemblyReference.cache
+C:\Users\Kolpa\Desktop\LabM1\Decomposition_6.2.2\Decomposition_6.2.2\obj\Debug\Decomposition_6.2.2.csproj.CoreCompileInputs.cache
+C:\Users\Kolpa\Desktop\LabM1\Decomposition_6.2.2\Decomposition_6.2.2\obj\Debug\Decomposition_6.2.2.exe
+C:\Users\Kolpa\Desktop\LabM1\Decomposition_6.2.2\Decomposition_6.2.2\obj\Debug\Decomposition_6.2.2.pdb
